@@ -32,5 +32,10 @@ As a user,
 ##### Home Page
 ![image](https://user-images.githubusercontent.com/102082192/165371623-0b2145f7-b627-49c4-8302-a88932c48619.png)
 
+
+## ERD
+![image](https://user-images.githubusercontent.com/102082192/165383312-353d192c-b42c-444f-9df8-6bcf5aaaecac.png)
+
+
  
 
